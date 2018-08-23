@@ -1,4 +1,7 @@
-function produceDrivingRange(value)
+function produceDrivingRange()
 {
-  return function
+  return function()
+  {
+    
+  }
 }
