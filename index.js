@@ -14,4 +14,4 @@ function produceDrivingRange(blockRange){
   }
 }
 
-function 
+function produceTipCalculator()
